@@ -1,14 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Builder.Realworld
+namespace Builder.RealWorld
 {
-	public class Real_world
-	{
-		
-
-
-
+	public class RealWorlds
+    {
         public static void Demo()
         {
             VehicleBuilder builder;

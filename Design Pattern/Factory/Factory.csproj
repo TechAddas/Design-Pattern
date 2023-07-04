@@ -5,4 +5,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Real-world\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="RealWorlds\" />
+  </ItemGroup>
 </Project>

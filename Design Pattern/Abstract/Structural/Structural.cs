@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Abstract.Structural.Structural_code
+namespace Abstract.Structural
 {
-  public class AbstractMainApp
+  public class Structurals
     {
         /// <summary>
         /// Entry point into console application.

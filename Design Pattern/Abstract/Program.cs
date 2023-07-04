@@ -1,5 +1,6 @@
 ﻿using System;
-using Abstract.Structural.Structural_code;
+using Abstract.Structural;
+using Abstract.Realworld;
 
 namespace Abstract
 {
@@ -8,7 +9,8 @@ namespace Abstract
         public static void Main()
         {
             // Abstract factory #1
-            AbstractMainApp.Demo();
+            Structurals.Demo();
+            Realworlds.Demo();
         }
     }
 

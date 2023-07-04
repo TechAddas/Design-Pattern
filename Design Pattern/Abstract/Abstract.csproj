@@ -8,12 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="Structural\" />
-    <None Remove="Real-world\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Structural\" />
-    <Folder Include="Real-world\" />
-  </ItemGroup>
 </Project>

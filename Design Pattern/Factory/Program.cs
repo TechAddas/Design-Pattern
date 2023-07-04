@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using Factory.Structural;
+using Factory.RealWorlds;
+
+Structural.Demo();
+RealWorlds.Demo();

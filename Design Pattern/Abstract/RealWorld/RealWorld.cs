@@ -1,19 +1,19 @@
 ﻿using System;
 
-namespace Design_Pattern.Realworld
+namespace Abstract.Realworld
 {
     /// <summary>
     /// MainApp startup class for Structural 
     /// Factory Method Design Pattern.
     /// </summary>
-å
-    class MainApp
+
+    public class Realworlds
     {
         /// <summary>
         /// Entry point into console application.
         /// </summary>
 
-        static void Main()
+        public static void Demo()
         {
             // An array of creators
 

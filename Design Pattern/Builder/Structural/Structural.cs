@@ -8,7 +8,7 @@ namespace Builder.Structural
     /// Builder Design Pattern.
     /// </summary>
 
-    public class BuilderDemo
+    public class Structural
     {
         /// <summary>
         /// Entry point into console application.
