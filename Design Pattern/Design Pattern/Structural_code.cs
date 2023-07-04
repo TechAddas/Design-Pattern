@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Abstract.Structural_code
+namespace DoFactory.GangOfFour.Abstract.Structural
 {
     class MainApp
     {
-        public static void Mainx()
+        public static void Main()
         {
             // Abstract factory #1
 
