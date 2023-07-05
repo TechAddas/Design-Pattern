@@ -4,7 +4,7 @@
 # Creational Patterns
 
 
-- Abstract Factory	Creates an instance of several families of classes
+* Abstract Factory	Creates an instance of several families of classes
 * Builder	Separates object construction from its representation
 * Factory Method	Creates an instance of several derived classes
 * Prototype	A fully initialized instance to be copied or cloned
@@ -20,7 +20,7 @@
 * Flyweight	A fine-grained instance used for efficient sharing
 * Proxy	An object representing another object
 
-## Behavioral Patterns
+# Behavioral Patterns
 
 - Chain of Resp.	A way of passing a request between a chain of objects
 * Command	Encapsulate a command request as an object
