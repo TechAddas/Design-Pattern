@@ -4,12 +4,11 @@
 # Creational Patterns
 
 
-* Abstract Factory	Creates an instance of several families of classes
-* [Abstract Factory](https://github.com/TechAddas/Design-Pattern/tree/main/Design%20Pattern/Abstract) 
-* Builder	Separates object construction from its representation
-* Factory Method	Creates an instance of several derived classes
-* Prototype	A fully initialized instance to be copied or cloned
-* Singleton	A class of which only a single instance can exist
+* [Abstract Factory](https://github.com/TechAddas/Design-Pattern/tree/main/Design%20Pattern/Abstract)   Creates an instance of several families of classes
+* [Builder](https://github.com/TechAddas/Design-Pattern/tree/main/Design%20Pattern/Builder)	Separates object construction from its representation
+* [Factory Method](https://github.com/TechAddas/Design-Pattern/tree/main/Design%20Pattern/Factory)	Creates an instance of several derived classes
+* [Prototype](https://github.com/TechAddas/Design-Pattern/tree/main/Design%20Pattern/Prototype)	A fully initialized instance to be copied or cloned
+* [Singleton](https://github.com/TechAddas/Design-Pattern/tree/main/Design%20Pattern/Singleton)	A class of which only a single instance can exist
 
 # Structural Patterns
 
