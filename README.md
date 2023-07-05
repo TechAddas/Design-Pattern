@@ -12,7 +12,7 @@
 
 # Structural Patterns
 
-- Adapter	Match interfaces of different classes
+* Adapter	Match interfaces of different classes
 * Bridge	Separates an object’s interface from its implementation
 * Composite	A tree structure of simple and composite objects
 * Decorator	Add responsibilities to objects dynamically
@@ -22,7 +22,7 @@
 
 # Behavioral Patterns
 
-- Chain of Resp.	A way of passing a request between a chain of objects
+* Chain of Resp.	A way of passing a request between a chain of objects
 * Command	Encapsulate a command request as an object
 * Interpreter	A way to include language elements in a program
 * Iterator	Sequentially access the elements of a collection
